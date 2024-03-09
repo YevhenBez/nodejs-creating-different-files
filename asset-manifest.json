@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nodejs-creating-different-files/static/css/main.7acaea2f.css",
+    "main.js": "/nodejs-creating-different-files/static/js/main.a6fa7f83.js",
+    "index.html": "/nodejs-creating-different-files/index.html",
+    "main.7acaea2f.css.map": "/nodejs-creating-different-files/static/css/main.7acaea2f.css.map",
+    "main.a6fa7f83.js.map": "/nodejs-creating-different-files/static/js/main.a6fa7f83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.a6fa7f83.js"
+  ]
+}
