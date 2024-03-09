@@ -10,7 +10,7 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      React homework template
+      Here I work exclusively in the terminal with Node.js, so nothing will be rendered
     </div>
   );
 };
